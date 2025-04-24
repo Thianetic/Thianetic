@@ -62,7 +62,7 @@ Me entusiasma contribuir en:
 ### 📫 **Contacto**  
 - ✉️ **Email profesional**: [thianetic](mailto:thianetic+dev@gmail.com)  
 - 🐦 **Twitter**: [@thianetic](https://twitter.com/thianetic)  
-- 💼 **LinkedIn**: [@thianetic](https://linkedin.com/in/thianetic)  
+- 💼 **LinkedIn**: [@thianetic](https://www.linkedin.com/in/thianetic-dev)  
 - 🌐 **Portfolio**: [En construcción](https://thianetic.dev)  
 
 ---
