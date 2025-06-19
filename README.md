@@ -77,7 +77,7 @@ Me entusiasma contribuir en:
 
 ### 📈 **Mis estadísticas en GitHub**  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Thianetic&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thianetic&theme=dark&background=0D1117&date=${Date.now()})](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thianetic&layout=compact&theme=dark)](https://github.com/Thianetic)
 
 ---
