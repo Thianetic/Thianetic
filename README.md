@@ -31,7 +31,6 @@
 #### 🖥️ **Sistemas Operativos**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Hackintosh](https://img.shields.io/badge/Hackintosh-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 #### 🛠️ **IDEs y Herramientas de Desarrollo**  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
