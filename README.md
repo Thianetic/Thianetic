@@ -4,9 +4,11 @@
 ### 🔍 *"El código al servicio de las personas"*
 
 **Desarrollador Full Stack** con base en **Java** y **desarrollo web**, apasionado por resolver problemas con **código limpio** y **automatización**.  
-🚀 **+10 años** creando proyectos como afición y ahora como profesión. Actualmente:  
-- 🖥️ **Desarrollando con GeneXus** en el ámbito laboral.  
-- 📱 **Creando aplicaciones Android para empresas**. 
+🚀 **+10 años** creando proyectos como afición y ahora como profesión. 
+
+Actualmente:  
+- 🖥️ **Desarrollando con Android Studio y VS Code** en el ámbito laboral.  
+- 📱 **Creando aplicaciones web y Android para empresas**. 
 ---
 
 ### 🛠️ **Tecnologías y herramientas**  
@@ -40,10 +42,11 @@
 ![GeneXus](https://img.shields.io/badge/GeneXus-2A579A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFXSURBVDiNpZIxTsNAEEWfV4FQ0HADXIE4AhI0FDSchY6OjiNwBGg4Ah0tBRI0XAEJcQSLN7trr1e2QkGz0oxm/uzfmdlZ+Z8w4q7AAdgCJbAGlsACyIEJkAFfwB14Bd6Aj6jYgA3wDKyS8hL4AJ6Al4g4w9i1qB3wCKyTcgOcgH0SXoF9c0Y1SdQaeAA2SXkC9sAhCa/AoTmjmiRqBdwD26Q8AnvgkIRXYN+cUU0StQJ2wD1wn5QH4BAZtQJ2wB1wSMo9cIiMWgFb4Ba4TcodcIiMWgEb4Aa4ScotcIiMWgFr4Bq4TsotcIiMWgHXwBWwScotcIiMWgHXwBpYJeUGOERGrYBbYAXMk3INHCKjVsASWAALYJ6Ua+AQGbUC5sAMmAEzYJ6Ua+AQGfUbWAJfwDx5WgJfUfE7Iv4u0wT4BhbJUwF8RsVx7Jd0BvwA58lTDnyMlX8B4hY4S54y4H2s/Ac21C1FvT2xWwAAAABJRU5ErkJggg==&logoColor=white)
 
 
-##### ***🔙 Mis inicios (hace 10 años): NetBeans y Notepad++ como compañeros de viaje.***  
+##### ***🔙 Mis inicios: NetBeans y Notepad++ como compañeros de viaje.***  
 ---
 
-### 🌱 **Actualmente aprendiendo**  
+### 🌱 **Actualmente aprendiendo**
+- 🤖 **Inteligencia Artificial y Big Data** 
 - 🔒 **Ciberseguridad** 
 - 🛡️ Ethical Hacking.
 
@@ -53,7 +56,7 @@
 Me entusiasma contribuir en:  
 - 🌍 Proyectos **Open Source** con impacto social o tecnológico. 
 - 💡 Desarrollo ético.  
-- 🧩 Soluciones IoT innovadoras.  
+- 🧩 Soluciones IoT.  
 - 📱 **Aplicaciones Android empresariales** (¡experiencia laboral activa!). 
 
 ---
@@ -68,9 +71,10 @@ Me entusiasma contribuir en:
 
 ### ⚡ **Dato curioso**  
 🛠️ **Experiencia técnica multidisciplinar**:  
-- 🔧 **Reparación de dispositivos**: He restaurado y optimizado equipos durante años, desde PCs (mi primer desmontaje/montaje a los 12) hasta smartphones (**Android** e **iOS**): cambios de pantallas, baterías y componentes electrónicos.  
-- 🔌 **Electrónica práctica**: Proyectos prácticos IoT personalizados con Arduino y Raspberry Pi para automatizar mi hogar.   
 - 💻 **Stack completo**: Mi pasión por la tecnología abarca tanto el **software** (código limpio, algoritmos) como el **hardware** (montaje, mantenimiento y optimización física). 
+- 🔌 **Electrónica práctica**: Proyectos prácticos IoT personalizados con Arduino y Raspberry Pi para automatizar mi hogar.
+- 🔧 **Reparación de dispositivos**: He restaurado y optimizado equipos durante años, desde PCs (mi primer desmontaje/montaje a los 12) hasta smartphones (**Android** e **iOS**): cambios de pantallas, baterías y componentes electrónicos.  
+
 
 ---
 
