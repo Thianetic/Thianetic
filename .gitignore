@@ -1,0 +1,26 @@
+# Sistemas operativos
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores y entornos
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs y temporales
+*.log
+
+# Credenciales y variables locales
+.env
+.env.*
+
+# Gobernanza, notas y reglas de agentes IA (locales/privadas)
+AGENTS.md
+.agents/
+CHANGELOG.md
+.docs/
