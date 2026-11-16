@@ -30,7 +30,7 @@
 
 ---
 
-## 🎯 Perfil Ejecutivo & Propuesta de Valor
+## 🎯 Perfil
 
 Desarrollador de software multidisciplinar especializado en el **ciclo completo de ingeniería (*End-to-End*)**:
 - 🛡️ **DevSecOps & Infraestructura Bare-Metal:** Aprovisionamiento, securización perimetral y orquestación de servidores Linux.
@@ -129,7 +129,6 @@ Entorno de ingeniería enfocado al testeo de resiliencia, comunicaciones distrib
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Thianetic&theme=dark&background=0d1117&border=30363d&stroke=00e5ff&ring=00e5ff&fire=10b981&currStreakLabel=00e5ff" alt="GitHub Streak Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thianetic&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=00e5ff&text_color=ccd6f6" alt="Top Languages" width="48%">
 </p>
 
 <p align="center">
